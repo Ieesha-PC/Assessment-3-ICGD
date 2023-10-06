@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: bfb2e8618759aeb49968a84f3a5465c8
+guid: 6804e561fac415247a87bc8e7e305f7a
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -107,70 +107,7 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Rain Cloud Scared_0
-      rect:
-        serializedVersion: 2
-        x: 9
-        y: 74
-        width: 14
-        height: 13
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 467959b4698d85249874b59cfb3fef6e
-      internalID: 1202419400
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Rain Cloud Scared_1
-      rect:
-        serializedVersion: 2
-        x: 41
-        y: 74
-        width: 14
-        height: 13
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: a966ac6a2a5dc6f4f9185cb3f85c1e2b
-      internalID: 1138068076
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Rain Cloud Scared_2
-      rect:
-        serializedVersion: 2
-        x: 73
-        y: 74
-        width: 14
-        height: 13
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: fbbdfdf21fae209418a890d3e20582a1
-      internalID: 699650097
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Rain Cloud Scared_3
+      name: Cloud Scared_0
       rect:
         serializedVersion: 2
         x: 9
@@ -178,62 +115,20 @@ TextureImporter:
         width: 14
         height: 13
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 229326bf19c0f99418bfa11773886725
-      internalID: 959465313
+      spriteID: 7b7ca935aad255047b3797595cc25b4e
+      internalID: 351079639
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Rain Cloud Scared_4
-      rect:
-        serializedVersion: 2
-        x: 41
-        y: 42
-        width: 14
-        height: 13
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: a7813b5c1ca91014a942e79b079731bd
-      internalID: 1754518297
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Rain Cloud Scared_5
-      rect:
-        serializedVersion: 2
-        x: 73
-        y: 42
-        width: 14
-        height: 13
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 0e729545c6b15314a9be2534cd61f7e2
-      internalID: -1886007406
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Rain Cloud Scared_6
+      name: Cloud Scared_1
       rect:
         serializedVersion: 2
         x: 9
@@ -241,35 +136,14 @@ TextureImporter:
         width: 14
         height: 13
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 114f1a563cb07dd4bb5325c57d2d19d7
-      internalID: 2100563662
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Rain Cloud Scared_7
-      rect:
-        serializedVersion: 2
-        x: 41
-        y: 10
-        width: 14
-        height: 13
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 975ea1c50cf9b8a42bd21f2c02725d94
-      internalID: -1965697961
+      spriteID: 84f971f2651d8c249b5c152d98505d24
+      internalID: 731009498
       vertices: []
       indices: 
       edges: []
@@ -285,14 +159,8 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      Rain Cloud Scared_0: 1202419400
-      Rain Cloud Scared_1: 1138068076
-      Rain Cloud Scared_2: 699650097
-      Rain Cloud Scared_3: 959465313
-      Rain Cloud Scared_4: 1754518297
-      Rain Cloud Scared_5: -1886007406
-      Rain Cloud Scared_6: 2100563662
-      Rain Cloud Scared_7: -1965697961
+      Cloud Scared_0: 351079639
+      Cloud Scared_1: 731009498
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

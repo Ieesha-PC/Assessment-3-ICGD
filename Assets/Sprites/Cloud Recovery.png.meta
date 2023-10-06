@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: bf958da22501cda4b973c7cbb541ba8b
+guid: 5109a78a092d6ee498757632df9e592d
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -107,70 +107,7 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Rain Cloud Recover_0
-      rect:
-        serializedVersion: 2
-        x: 9
-        y: 74
-        width: 14
-        height: 13
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 338bdd052bc2b32449352a34f82ba243
-      internalID: -1382753026
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Rain Cloud Recover_1
-      rect:
-        serializedVersion: 2
-        x: 41
-        y: 74
-        width: 14
-        height: 13
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 543522ff3a2b1904b885460f1cd502af
-      internalID: -18033476
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Rain Cloud Recover_2
-      rect:
-        serializedVersion: 2
-        x: 73
-        y: 74
-        width: 14
-        height: 13
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 49e906f127d797749be0e256a4fa1810
-      internalID: -1551340847
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Rain Cloud Recover_3
+      name: Cloud Recovery_0
       rect:
         serializedVersion: 2
         x: 9
@@ -178,62 +115,20 @@ TextureImporter:
         width: 14
         height: 13
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: ea36dad6128399044a915e4117f7d3fc
-      internalID: 2112468498
+      spriteID: 2816bf0c9ca52964e87b7e7451ca4445
+      internalID: -1325134992
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Rain Cloud Recover_4
-      rect:
-        serializedVersion: 2
-        x: 41
-        y: 42
-        width: 14
-        height: 13
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 54153733538c25d4695ca82ee1480416
-      internalID: 1305287316
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Rain Cloud Recover_5
-      rect:
-        serializedVersion: 2
-        x: 73
-        y: 42
-        width: 14
-        height: 13
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: c0b1843dab687754f937c5a02ece5721
-      internalID: 2000224735
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Rain Cloud Recover_6
+      name: Cloud Recovery_1
       rect:
         serializedVersion: 2
         x: 9
@@ -241,35 +136,14 @@ TextureImporter:
         width: 14
         height: 13
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 18d5fb15358906248b5816c2ae9c51de
-      internalID: -583748724
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Rain Cloud Recover_7
-      rect:
-        serializedVersion: 2
-        x: 41
-        y: 10
-        width: 14
-        height: 13
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: dc6a6ce129aceb54eacbbae5d1a52f40
-      internalID: 34217792
+      spriteID: a0cb2722095e91141a72890099ae7070
+      internalID: -1523382058
       vertices: []
       indices: 
       edges: []
@@ -285,14 +159,8 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      Rain Cloud Recover_0: -1382753026
-      Rain Cloud Recover_1: -18033476
-      Rain Cloud Recover_2: -1551340847
-      Rain Cloud Recover_3: 2112468498
-      Rain Cloud Recover_4: 1305287316
-      Rain Cloud Recover_5: 2000224735
-      Rain Cloud Recover_6: -583748724
-      Rain Cloud Recover_7: 34217792
+      Cloud Recovery_0: -1325134992
+      Cloud Recovery_1: -1523382058
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
