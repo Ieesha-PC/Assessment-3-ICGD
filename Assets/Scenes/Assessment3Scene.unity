@@ -1036,7 +1036,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 6945224904922572602, guid: 998fec00dba680a41b9445f87e936cf7, type: 3}
       propertyPath: m_Name
-      value: PowerPellet (2)
+      value: PowerPellet4
       objectReference: {fileID: 0}
     - target: {fileID: 6945224904922572605, guid: 998fec00dba680a41b9445f87e936cf7, type: 3}
       propertyPath: m_RootOrder
@@ -9333,7 +9333,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 6945224904922572602, guid: 998fec00dba680a41b9445f87e936cf7, type: 3}
       propertyPath: m_Name
-      value: PowerPellet (3)
+      value: PowerPellet3
       objectReference: {fileID: 0}
     - target: {fileID: 6945224904922572605, guid: 998fec00dba680a41b9445f87e936cf7, type: 3}
       propertyPath: m_RootOrder
@@ -9410,7 +9410,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 6945224904922572602, guid: 998fec00dba680a41b9445f87e936cf7, type: 3}
       propertyPath: m_Name
-      value: PowerPellet (4)
+      value: PowerPellet2
       objectReference: {fileID: 0}
     - target: {fileID: 6945224904922572605, guid: 998fec00dba680a41b9445f87e936cf7, type: 3}
       propertyPath: m_RootOrder
@@ -19720,7 +19720,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 6945224904922572602, guid: 998fec00dba680a41b9445f87e936cf7, type: 3}
       propertyPath: m_Name
-      value: PowerPellet
+      value: PowerPellet1
       objectReference: {fileID: 0}
     - target: {fileID: 6945224904922572605, guid: 998fec00dba680a41b9445f87e936cf7, type: 3}
       propertyPath: m_RootOrder
